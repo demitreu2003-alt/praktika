@@ -21,7 +21,6 @@ tv-detection/
 ├── static/             # обработанные изображения *_result.*
 ├── uploads/            # оригиналы загруженных фото
 ├── test_tv.jpg, test_tv2.jpg, test_real.jpg, ...  # тестовые изображения
-└── README.md           # этот файл
 
 Требования
 Python 3.10+
